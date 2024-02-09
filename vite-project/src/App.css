@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.showCounter {
+  padding: 30px;
+  border: 1px solid lightgray;
+  margin-bottom: 15px;
+  font-size: 80px;
+  border-radius: 10px;
+}
